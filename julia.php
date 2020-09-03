@@ -1,2 +1,9 @@
-<?php
-echo '<h1>Ceci est le fichier de julia qui pue ';
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hey man!</title>
+</head>
+<body>
+Voici mon taff
+</body>
